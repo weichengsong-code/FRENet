@@ -1,11 +1,6 @@
 # Deepfake Detection via Feature Refinement and Enhancement Network for Consumer Electronics
 <b> Authors: Weicheng Song</a>, Siyou Guo</a>, Dan Zhang*</a>,  Xianxun Zhu*</a>, Mingliang Gao</a>  </b>
 
-
-> News:
-> OUR LATEST WORK:  We have proposed a network model aimed at addressing the issue of high-risk transactions involving deepfake-generated faces in facial payment systems.  We will soon release all the codes implemented by the DeepfakeBench codebase.
-
-
 ### Training 
 
 <a href="#top">[Back to top]</a>
@@ -61,3 +56,19 @@ For cross-dataset validation, FF++ dataset serves as the training dataset, with 
 | Celeb-DF-v2  | 189301          | 16420           | ——             | 7.98%         |
 | DFDCP        | 822             | 230             | ——             | 21.86%        |
 | FaceShifter  | 1438            | 280             | ——             | 16.30%        |
+
+```
+
+## Citation
+
+If you use VLFFD in your research, please cite our paper:
+
+```
+@article{song2025deepfake,
+  title={Deepfake detection via Feature Refinement and Enhancement Network},
+  author={Song, Weicheng and Guo, Siyou and Gao, Mingliang and Li, Qilei and Zhu, Xianxun and Rida, Imad},
+  journal={Image and Vision Computing},
+  pages={105663},
+  year={2025},
+  publisher={Elsevier}
+}
