@@ -1,5 +1,5 @@
 # Deepfake Detection via Feature Refinement and Enhancement Network for Consumer Electronics
-<b> Authors: Weicheng Song</a>, Siyou Guo</a>, Dan Zhang*</a>,  Xianxun Zhu*</a>, Mingliang Gao</a>  </b>
+Authors: Weicheng Song, Siyou Guo, Imad Rida,  Xianxun Zhu, Mingliang Gao
 
 ### Training 
 
